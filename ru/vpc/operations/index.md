@@ -8,8 +8,8 @@ description: На странице представлен список поша�
 ## Облачная сеть {#network}
 
 - [{#T}](network-create.md)
-- [{#T}](network-delete.md)
 - [{#T}](network-update.md)
+- [{#T}](network-delete.md)
 - [{#T}](network-get-info.md)
 - [{#T}](network-map.md)
 - [{#T}](network-move.md)
@@ -17,8 +17,8 @@ description: На странице представлен список поша�
 ## Подсеть {#subnet}
 
 - [{#T}](subnet-create.md)
-- [{#T}](subnet-delete.md)
 - [{#T}](subnet-update.md)
+- [{#T}](subnet-delete.md)
 - [{#T}](subnet-get-info.md)
 - [{#T}](subnet-move.md)
 - [{#T}](subnet-relocate.md)
